@@ -1,0 +1,2 @@
+# Encryption
+🔐🐍 Python Encryption Project 🚀
